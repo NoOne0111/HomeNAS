@@ -1,4 +1,5 @@
 # HomeNAS
+Test 1,2,3
 
 🇬🇧/🇺🇸
 Hello, this is a school project, don't be rude we are not programmers, just networking students enjoying. 
